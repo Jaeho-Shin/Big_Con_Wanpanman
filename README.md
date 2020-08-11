@@ -16,6 +16,6 @@
 ## Feature Engineering 
 
 ## Modeling
-
+"모델링 어렵다."
 
 
