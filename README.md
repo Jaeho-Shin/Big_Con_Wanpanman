@@ -2,7 +2,7 @@
 
 ## Contributor
 #### 팀장 
-신재호W [github](https://github.com/gifrds)
+신재호 [github](https://github.com/gifrds)
 ##### 팀원 
 박은정 [github](https://github.com/Eundms)<br>
 박소희 [github](https://github.com/shp1204) Hi<br>
@@ -11,7 +11,7 @@
 
 
 ## EDA
-"EDA어렵다"
+
 
 ## Feature Engineering 
 
