@@ -10,6 +10,7 @@
 김준영짱 [github](https://github.com/KJY386)<br>
 
 ## EDA
+"EDA어렵다"
 
 ## Feature Engineering 
 
