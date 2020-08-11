@@ -1,9 +1,7 @@
 # Big_Con_Wanpanman
 
 ## Contributor
----
 #### 팀장 
----
 신재호 [github](https://github.com/gifrds)
 ##### 팀원 
 박은정 [github](https://github.com/Eundms)<br>
