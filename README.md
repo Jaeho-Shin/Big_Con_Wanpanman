@@ -17,3 +17,29 @@
 ## Modeling
 
 
+## 데이터 설명
+
+* 제공데이터:<br>
+2019_data_time.xlsx<br>
+2020_원본.xlsx<br>
+시청률 데이터.xlsx<br>
+
+* 선행,동행,후행 지표:<br>
+코스닥_주요지수(19.08.14~20.08.14).xls<br>
+
+* 코스닥(월별)<br>
+18.01.xls ~ 20.07.xls<br>
+kosdaq(19.01~20.07).xlsx<br>:feature에 사용한 kosdaq만 excel화
+
+
+* 코스닥(일별)<br>
+kosdaq19.01.01_20.08.17(일).xls<br>
+경기종합지수_선행동행후행_19.01_20.06(월).xlsx<br>
+
+* 02:00~25:59 로 시청률 시간대 변경<br>
+시간대.xlsx<br>
+
+* MultiLinearRegression에 넣은 feature (코스닥(일별))<br>
+일별코스닥.xlsx<br>
+
+
