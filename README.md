@@ -1,5 +1,5 @@
 바로 올리는 거 무서워서 따로 올려요 ㅋㅋ
-[시청률+코스닥+등등..]https://github.com/Eundms/bigcon_Eundms
+[시청률+코스닥+등등..](https://github.com/Eundms/bigcon_Eundms)
 
 # Big_Con_Wanpanman
 
