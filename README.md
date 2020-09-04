@@ -1,3 +1,6 @@
+바로 올리는 거 무서워서 따로 올려요 ㅋㅋ
+[시청률+코스닥+등등..]https://github.com/Eundms/bigcon_Eundms
+
 # Big_Con_Wanpanman
 
 ## Contributor
@@ -8,7 +11,6 @@
 박소희 [github](https://github.com/shp1204)<br>
 송민재 [github](https://github.com/hsu-201458085)<br>
 김준영 [github](https://github.com/KJY386)<br>
-
 
 ## EDA
 
